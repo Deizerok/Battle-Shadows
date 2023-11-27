@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="248dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:scrollbars="vertical">
+
+            <TextView
+                android:id="@+id/textRound"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="18dp"
+                android:text=""
+                android:textSize="19sp" />
+
+            <TextView
+                android:id="@+id/TextHello"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Enter your nickname!"
+                android:textSize="24sp" />
+
+            <EditText
+                android:id="@+id/editTextText"
+                android:layout_width="185dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="text"
+                android:text="Name" />
+
+
+
+            <TextView
+                android:id="@+id/TextHello1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text=""
+                android:textSize="24sp" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/choice"
+        android:layout_width="400dp"
+        android:layout_height="158dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/ak"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:text="AK-47" />
+
+        <Button
+            android:id="@+id/m4"
+            android:layout_width="241dp"
+            android:layout_height="wrap_content"
+            android:text="M4-A1" />
+
+        <Button
+            android:id="@+id/awp"
+            android:layout_width="243dp"
+            android:layout_height="wrap_content"
+            android:text="AWP" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/Battle"
+        android:layout_width="150dp"
+        android:layout_height="67dp"
+        android:text="Enter"
+        android:textSize="20dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="428dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:text="Next" />
+
+    <Button
+        android:id="@+id/shortMatch"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:text="2.Short match!" />
+
+    <Button
+        android:id="@+id/buttonAfterMedicine"
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
+        android:text="AfterMedicine" />
+
+    <Button
+        android:id="@+id/nextRound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NextRound" />
+
+    <LinearLayout
+        android:id="@+id/chooseMed"
+        android:layout_width="400dp"
+        android:layout_height="134dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/tablet"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:text="tablet" />
+
+        <Button
+            android:id="@+id/energetic"
+            android:layout_width="241dp"
+            android:layout_height="wrap_content"
+            android:text="Energetics" />
+
+        <Button
+            android:id="@+id/med"
+            android:layout_width="243dp"
+            android:layout_height="wrap_content"
+            android:text="First aid kit" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="bottom">
+
+
+            <TextView
+                android:id="@+id/Version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Alpha Version: 0.N27" />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>
