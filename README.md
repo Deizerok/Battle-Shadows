@@ -1,4 +1,4 @@
-# The battle of the kings
+# The War of Shadows
 1.1 The battle of the kings (Game)
 _________________
 
