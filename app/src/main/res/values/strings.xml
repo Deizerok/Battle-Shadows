@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">app.The battle of the king</string>
+    <string name="app_name">Battle Shadows</string>
+    <string name="tablet">Tablet</string>
+    <string name="energetics">Energetics</string>
+    <string name="first_aid_kit">First aid kit</string>
+    <string name="error">Error</string>
+    <string name="go_to_result">Go To Result</string>
+    <string name="go_to_main_menu">Go To Game Menu</string>
+
+    <string name="awp">AWP</string>
+    <string name="m4_a1">M4-A1</string>
+    <string name="ak_47">AK-47</string>
+    <string name="enter">Enter</string>
+    <string name="name">Name</string>
+    <string name="enter_your_nickname">Enter your nickname!</string>
+    <string name="close">Close</string>
+    <string name="set_nickname">Set Nickname</string>
+    <string name="play">Play</string>
+    <string name="project_shadow">Battle Shadows</string>
+    <string name="guide">Guide</string>
+    <string name="time_to_choose_a_medicine">Time to choose a medicine</string>
+    <string name="hello_this_is_a_mini_guide_to_the_game_n_battle_of_the_shadows_n_to_start_the_game_you_need_to_click_on_the_play_button_n_you_have_a_choice_of_weapons_after_there_is_a_choice_of_medicines_after_choosing_the_medicine_you_will_have_a_battle_with_the_bot_n_and_in_the_end_it_will_show_who_won"><![CDATA[Hello, this is a mini-guide to the game \n <Battle of the Shadows> \n To start the game, you need to click on the Play button. \n You have a choice of weapons after there is a choice of medicines, after choosing the medicine you will have a battle with the bot \n and in the end it will show who won!]]></string>
+    <string name="guide_for_battle_shadows">Guide for Battle Shadows</string>
 </resources>
