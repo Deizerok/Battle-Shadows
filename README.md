@@ -2,4 +2,9 @@
 
 ____
 ## Screenshots Game
-![game](https://github.com/Deizerok/Battle-Shadows/blob/master/docs/game-menu.jpg) ![game](https://github.com/Deizerok/Battle-Shadows/blob/master/docs/guide.jpg)
+<center>
+<div style="display:flex;">
+<img src="docs/game-menu.jpg" alt="ui_diary" width="18%"/>
+<img src="docs/guide.jpg" alt="ui_diary" width="18%"/>
+</div>
+</center>
