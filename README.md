@@ -1,6 +1,6 @@
 # Battle Shadows
--I used my knowledge of OOP kotlin
-**Downlaod Game**: [link](https://github.com/Deizerok/Battle-Shadows/releases/tag/v1.0)
+- I used my knowledge of OOP kotlin
+- **Downlaod Game**: [link](https://github.com/Deizerok/Battle-Shadows/releases/tag/v1.0)
 ## System requirements
 Recommended system: Android 7.0 SDK 24
 
