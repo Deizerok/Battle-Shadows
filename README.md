@@ -1,6 +1,6 @@
 # Battle Shadows
 
-____
+
 ## Screenshots Game
 <center>
 <div style="display:flex;">
