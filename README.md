@@ -1,5 +1,8 @@
 # Battle Shadows
+-I used my knowledge of OOP kotlin
 
+## System requirements
+Recommended system: Android 7.0 SDK 24
 
 ## Screenshots Game
 <center>
