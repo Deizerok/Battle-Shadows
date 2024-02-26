@@ -2,8 +2,8 @@
 - I used my knowledge of OOP kotlin
 - **Downlaod Game**: [link](https://github.com/Deizerok/Battle-Shadows/releases/tag/v1.0)
 ## System requirements
-Recommended system: Android 7.0 SDK 24
-
+- Recommended system: Android 7.0 SDK 24
+- Android Studio
 ## Screenshots Game
 <center>
 <div style="display:flex;">
